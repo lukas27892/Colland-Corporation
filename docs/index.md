@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Hello there,
 
-You can use the [editor on GitHub](https://github.com/lukas27892/CollandCorporation.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Ever since we started this project, we built from the ground up until we starting to design and polish facilities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Can we get in contact with socials?
 
-### Markdown
+Yes, (im bored to put more socials so yeah) [Colland Corporation Discord Server](https://discord.gg/KkKwYrdaYK)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What is this corporation?
+
+This corporation mainly uses electricity, while electricity causes more deaths then radiation, It's better to be gaining shocks rather then not noticing radiation. (totally honest lol)
 
 ```markdown
-Syntax highlighted code block
+Want to know behind the scenes, here are things we use to help construct games.
 
-# Header 1
-## Header 2
-### Header 3
+# Scripts
+Datastore
+These are used to store Credits which is a upcoming feature.
 
-- Bulleted
-- List
+Events
+We script events so they happen if a certain thing occurs.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Values
+Values are used to determine what it does.
+e.g: 1 = Enable, 0 = Disabled
+We use the number type value which is used for the temp.
 
-[Link](url) and ![Image](src)
+# Lighting
+
+Thanks to roblox for introducing the future lighting, the lighting will be better then ever and increase realism.
+ 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If you require assistance, Please contact: lukas27892#9211
 
-### Jekyll Themes
+### More info
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lukas27892/CollandCorporation.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We have job positions open in discord! Apply at the Social links.
 
-### Support or Contact
+### I heard Colland Corporation had another website!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Yes, its true but we are migrating to github pages.
