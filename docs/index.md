@@ -1,4 +1,4 @@
-## Hello there,
+## Welcome to this page.
 
 Ever since we started this project, we built from the ground up until we started to design and polish facilities.
 
