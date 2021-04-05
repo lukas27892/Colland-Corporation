@@ -1,6 +1,6 @@
 ## Hello there,
 
-Ever since we started this project, we built from the ground up until we began to design and polish facilities.
+Ever since we started this project, we built from the ground up until we started to design and polish facilities.
 
 ### Can we get in contact with socials?
 
